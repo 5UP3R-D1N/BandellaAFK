@@ -1,3 +1,4 @@
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 # BandellaAFK
 This is a Minecraft AFK bot that is controllable through discord that takes Microsoft and Mojang accounts
 
